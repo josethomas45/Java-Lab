@@ -1,3 +1,11 @@
+/**********************************************************
+ * File        :  grade.java
+ * Description :  To get the grade of student
+ * Author      :  Jose Thomas
+ * Version     :  1.0
+ * Date        :  26/09/2023
+ **********************************************************/
+
 package javaproj1;
 
 import java.util.Scanner;
