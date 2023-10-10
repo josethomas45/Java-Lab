@@ -1,3 +1,11 @@
+/**********************************************************
+ * File        :  matrixmul.java
+ * Description :  To get the matrix multiple
+ * Author      :  Jose Thomas
+ * Version     :  1.0
+ * Date        :  10/10/2023
+ **********************************************************/
+
 package javaproj1;
 
 import java.util.Scanner;
