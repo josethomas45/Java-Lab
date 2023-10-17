@@ -1,4 +1,10 @@
-package javaproj1;
+/**********************************************************
+ * File        :  employeedetails.java
+ * Description :  Program to understand inheritance
+ * Author      :  Jose Thomas
+ * Version     :  1.0
+ * Date        :  10/10/2023
+ **********************************************************/package javaproj1;
 
 import java.util.Scanner;
 
