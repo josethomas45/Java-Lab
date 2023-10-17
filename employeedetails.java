@@ -3,7 +3,7 @@
  * Description :  Program to understand inheritance
  * Author      :  Jose Thomas
  * Version     :  1.0
- * Date        :  10/10/2023
+ * Date        :  17/10/2023
  **********************************************************/\
 package javaproj1;
 
