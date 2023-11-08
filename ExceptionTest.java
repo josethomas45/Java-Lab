@@ -1,4 +1,10 @@
-
+/**********************************************************
+ * File        :  exceptiontest.java
+ * Description :  Application of try and catch
+ * Author      :  Jose Thomas
+ * Version     :  1.0
+ * Date        :  8/11/2023
+ **********************************************************/
 public class ExceptionTest {
 	
 	public static void main(String[] args) {
