@@ -1,10 +1,3 @@
-/**********************************************************
- * File        :  abstractclass.java
- * Description :  abstract
- * Author      :  Jose Thomas
- * Version     :  1.0
- * Date        :  29/10/2023
- **********************************************************/
 package javaproj1;
 
 import java.util.Scanner;
